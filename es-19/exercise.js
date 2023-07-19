@@ -6,4 +6,4 @@ if(name && surname){
     console.log(fullName)
 }else{
     console.log("Full name is invalid");
-}
+};
